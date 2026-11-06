@@ -2,3 +2,12 @@ __pycache__/
 *.py[cod]
 *.class
 reporte_rutas.txt
+
+# Material del informe y evidencias (no forman parte del codigo)
+Tarea_6_Grupo5.*
+Tarea Practica 6*.pdf
+_build/
+capturas/
+diagramas/
+salida_rutas.txt
+~$*
