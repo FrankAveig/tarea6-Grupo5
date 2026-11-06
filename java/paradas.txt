@@ -1,0 +1,7 @@
+Mercado Central;2;3;12
+Clinica Norte;5;7;8
+Barrio El Sol;-4;2;15
+Universidad;-6;-3;20
+Terminal;3;-5;18
+Parque Industrial;8;-2;25
+Dato invalido;abc;5;10
